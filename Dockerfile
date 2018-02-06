@@ -1,4 +1,4 @@
-FROM vagezak/codecep-dockerfile:latest
+FROM vagezak/codecep-dockerfile
 
 MAINTAINER Nikolay Kudryashov mikola-2@yandex.ru
 
